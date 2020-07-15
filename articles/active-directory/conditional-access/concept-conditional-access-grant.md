@@ -96,9 +96,9 @@ This setting applies to the following iOS and Android apps:
 - Microsoft Teams
 - Microsoft To-Do
 - Microsoft Visio
+- Microsoft Whiteboard
 - Microsoft Word
 - Microsoft Yammer
-- Microsoft Whiteboard
 
 **Remarks**
 
